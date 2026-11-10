@@ -21,7 +21,7 @@ B.S./M.S. student at Oklahoma Christian University
 - **Education:** B.S./M.S. in Computer Science, Cybersecurity concentration at Oklahoma Christian University. Expected graduation: May 2028.
 - **Honors:** President’s List and Order of the Sword and Shield National Honor Society (OSSNHS).
 - **Experience:** IT operations at American Fidelity, university IT support, Samsung, and the Republic of Korea Army.
-- **Certification:** CompTIA Security+.
+- **Certification:** CompTIA Security+, Google Cybersecurity Professional Certificate
 - **Current focus:** Windows security, PowerShell automation, and learning Splunk and SPL through a personal lab.
 
 ## Featured projects
