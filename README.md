@@ -17,10 +17,11 @@ B.S./M.S. student at Oklahoma Christian University
 
 ## About me
 
-I'm a computer science student with a cybersecurity concentration, working toward becoming a cybersecurity engineer. My IT support experience has made me interested in how systems are managed, how access is protected, and how security issues are investigated.
+I'm a B.S./M.S. computer science student with a cybersecurity concentration, working toward becoming a cybersecurity engineer. My background includes IT support, facilities operations at Samsung, and military radar operations. I'm interested in how systems are managed, how access is protected, and how security issues are investigated. I'm also taking AI coursework to learn about AI security and emerging threats.
 
-- **Education:** B.S./M.S. in Computer Science, Cybersecurity concentration at Oklahoma Christian University. Expected graduation: August 2028.
-- **Experience:** IT operations at American Fidelity and previous IT support at Oklahoma Christian University.
+- **Education:** B.S./M.S. in Computer Science, Cybersecurity concentration at Oklahoma Christian University. Expected graduation: May 2028.
+- **Honors:** President’s List and Order of the Sword and Shield National Honor Society (OSSNHS).
+- **Experience:** IT operations at American Fidelity, university IT support, Samsung, and the Republic of Korea Army.
 - **Certification:** CompTIA Security+.
 - **Current focus:** Windows security, PowerShell automation, and learning Splunk and SPL through a personal lab.
 
@@ -34,6 +35,26 @@ I'm a computer science student with a cybersecurity concentration, working towar
 | [**Point of Sale System**](https://github.com/GoobinJung/POS-System-project) | A Java Swing application with checkout, payment simulation, cashier sessions, sales reports, and local persistence. |
 | [**Vue Todo App**](https://github.com/GoobinJung/Vue-Todo-App) | A Vue 3 frontend for accounts, task lists, and task management through a separate backend API. |
 
+
+## Security exercises & simulations
+
+| Activity | Focus |
+| --- | --- |
+| **Tata IAM Job Simulation** | Analyzed identity and access management requirements and proposed user lifecycle automation and Zero Trust access controls using RBAC, ABAC, PAM, and SSO. |
+| **Mastercard Cybersecurity Job Simulation** | Analyzed phishing indicators, designed a simulated phishing campaign, reviewed results, and developed targeted security awareness training. |
+| **Network Traffic Analysis with Wireshark** | Inspected DNS, DHCP, TCP, ICMP, and TLS traffic to understand communication patterns and troubleshoot network activity. |
+
+## Certifications & training
+
+| Credential or course | Type |
+| --- | --- |
+| **CompTIA Security+** | Professional certification |
+| **Google Cybersecurity Professional Certificate** | Professional certificate |
+| **Anthropic AI Fluency: Framework & Foundations** | Course completion |
+| **AWS Cloud Practitioner Essentials** | Foundational cloud training |
+| **National Cyber League (NCL) Participation Certificate** | Competition participation |
+| **Udemy: Administration and Automation with PowerShell** | Course completion |
+
 ## Tools & technologies
 
 **Programming & scripting**
@@ -45,10 +66,21 @@ I'm a computer science student with a cybersecurity concentration, working towar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-**Systems, support & security**
+**Technical experience & learning areas**
 
-Windows · Linux · Wireshark · ServiceNow · Zendesk · Git  
-Currently learning: Splunk · SPL · Windows event analysis
+| Area | Technologies & concepts |
+| --- | --- |
+| Programming | Python, Java, C++, JavaScript, PowerShell, HTML/CSS, SQL, x86 Assembly, data structures and algorithms |
+| Security | SIEM, log analysis, network security, incident response, risk management, IAM, NIST and ISO frameworks |
+| Access management | RBAC, ABAC, PAM, SSO, least privilege, identity verification |
+| Networking | TCP/IP, DNS, HTTP/HTTPS, DHCP, Wireshark |
+| Cloud & web | AWS, REST APIs, Node.js, Vue.js, Apache, phpMyAdmin, Postman |
+| Machine learning | PyTorch, CNNs, Flask |
+| Systems & IT operations | Windows, Kali Linux, Ubuntu, Microsoft Intune, Entrust, Persona, ServiceNow, Zendesk, LogMeIn |
+| Workflow & productivity | Git, Git Bash, Microsoft Excel, Microsoft Office, IT asset tracking, ticketing, project and process management |
+
+Currently learning: Splunk, SPL, Windows event analysis, and AI security.  
+Practice platforms: TryHackMe and National Cyber League (NCL).
 
 <details>
 <summary><b>More about my experience</b></summary>
@@ -56,9 +88,9 @@ Currently learning: Splunk · SPL · Windows event analysis
 | Organization | Role | Period |
 | --- | --- | --- |
 | American Fidelity | IT Operations Intern | September 2026 – Present |
-| Oklahoma Christian University | IT Support Technician | June 2026 – September 2026 |
-| Samsung | Construction / Facilities Management Associate | December 2022 – September 2023 |
-| Republic of Korea Army | Field Artillery Radar Operator | 2019 – 2021 |
+| Oklahoma Christian University | IT Support Technician | June 2026 – August 2026 |
+| Samsung | Construction and Facilities Management Associate | December 2022 – September 2023 |
+| Republic of Korea Army | Field Artillery Radar Operator | July 2019 – February 2021 |
 
 </details>
 
