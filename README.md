@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Goobin Jung
+# Goobin Jung
 
 ### Computer Science & Cybersecurity
 
