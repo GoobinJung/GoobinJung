@@ -17,7 +17,6 @@ B.S./M.S. student at Oklahoma Christian University
 
 ## About me
 
-I'm a B.S./M.S. computer science student with a cybersecurity concentration, working toward becoming a cybersecurity engineer. My background includes IT support, facilities operations at Samsung, and military radar operations. I'm interested in how systems are managed, how access is protected, and how security issues are investigated. I'm also taking AI coursework to learn about AI security and emerging threats.
 
 - **Education:** B.S./M.S. in Computer Science, Cybersecurity concentration at Oklahoma Christian University. Expected graduation: May 2028.
 - **Honors:** President’s List and Order of the Sword and Shield National Honor Society (OSSNHS).
