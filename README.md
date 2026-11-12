@@ -26,7 +26,7 @@ B.S./M.S. student at Oklahoma Christian University
 
 ## Featured projects
 
-[![Windows Security Audit Tool. A PowerShell tool that collects Windows system, process, network, and security event information into timestamped audit reports.](./assets/project-cards/windows-security-audit.svg?v=2)](https://github.com/GoobinJung/Windows-Security-Audit) [![Splunk Windows Threat Detection Lab. An in-progress lab for Windows telemetry, SPL searches, and detection engineering. Currently in planning and setup.](./assets/project-cards/splunk-threat-detection.svg)](https://github.com/GoobinJung/splunk-windows-threat-detection-lab)
+[![Windows Security Audit Tool. A PowerShell tool that collects Windows system, process, network, and security event information into timestamped audit reports.](./assets/project-cards/windows-security-audit-compact.svg)](https://github.com/GoobinJung/Windows-Security-Audit) [![Splunk Windows Threat Detection Lab. An in-progress lab for Windows telemetry, SPL searches, and detection engineering. Currently in planning and setup.](./assets/project-cards/splunk-threat-detection.svg)](https://github.com/GoobinJung/splunk-windows-threat-detection-lab)
 
 [![Interactive Drawing Recognition App. A PyTorch CNN and Flask app that recognizes five categories of hand-drawn objects and displays the top three predictions with confidence scores.](./assets/project-cards/drawing-recognition.svg)](https://github.com/GoobinJung/drawing-recognition-app) [![Point of Sale System. A Java Swing application with checkout, payment simulation, cashier sessions, sales reports, and local persistence.](./assets/project-cards/point-of-sale.svg)](https://github.com/GoobinJung/POS-System-project)
 
