@@ -1,28 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="744" height="126" viewBox="0 0 744 126" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="136" viewBox="0 0 364 136" role="img" aria-labelledby="title desc">
   <title id="title">Windows Security Audit Tool</title>
   <desc id="desc">Collect Windows system, network, and security event data and turn it into timestamped audit reports.</desc>
   <defs>
     <linearGradient id="surface" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#142842"/>
+      <stop offset="0%" stop-color="#142031"/>
       <stop offset="100%" stop-color="#0D1522"/>
     </linearGradient>
-    <pattern id="dot-grid" width="14" height="14" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#83BCFF" opacity=".32"/>
-    </pattern>
+
   </defs>
-  <rect x="1" y="2" width="742" height="122" rx="13" fill="url(#surface)" stroke="#34455E"/>
-  <rect x="554" y="11" width="163" height="102" rx="10" fill="url(#dot-grid)"/><path d="M567 91h33l14-18h24l14-18h31" fill="none" stroke="#83BCFF" stroke-width="2" opacity=".32"/><circle cx="683" cy="55" r="3" fill="#83BCFF" opacity=".65"/>
-  <rect x="20" y="36" width="49" height="49" rx="11" fill="#83BCFF" opacity=".14"/>
-  <g transform="translate(26 43) scale(1.55)" fill="none" stroke="#83BCFF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="1" y="2" width="362" height="132" rx="13" fill="url(#surface)" stroke="#34455E"/>
+
+  <rect x="19" y="13" width="29" height="29" rx="7" fill="#83BCFF" opacity=".14"/>
+  <g transform="translate(24 17) scale(.83)" fill="none" stroke="#83BCFF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
     <path d="m6 7 5 5-5 5m7 0h5"/>
   </g>
-  <text x="88" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#83BCFF">POWERSHELL · WINDOWS EVENT LOG</text>
-  <text x="88" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#F3F7FF">
-    <tspan x="88" dy="0">Windows Security Audit Tool</tspan>
+  <text x="59" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#83BCFF">POWERSHELL · WINDOWS EVENT LOG</text>
+  <text x="20" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#F3F7FF">
+    <tspan x="20" dy="0">Windows Security</tspan><tspan x="20" dy="21">Audit Tool</tspan>
   </text>
-  <text x="88" y="86" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#BDCBE0">
-    <tspan x="88" dy="0">Collect Windows system, network, and security event data</tspan><tspan x="88" dy="17">and turn it into timestamped audit reports.</tspan>
+  <text x="20" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#BDCBE0">
+    <tspan x="20" dy="0">Collect Windows system, network, and event data</tspan><tspan x="20" dy="17">and generate timestamped audit reports.</tspan>
   </text>
-  <circle cx="716" cy="27" r="12" fill="#83BCFF" opacity=".14"/>
-  <path d="M712 31l8-8m-6 0h6v6" fill="none" stroke="#83BCFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="336" cy="27" r="12" fill="#83BCFF" opacity=".14"/>
+  <path d="M332 31l8-8m-6 0h6v6" fill="none" stroke="#83BCFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
