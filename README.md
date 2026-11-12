@@ -26,14 +26,11 @@ B.S./M.S. student at Oklahoma Christian University
 
 ## Featured projects
 
-| Project | What I'm building and learning |
-| --- | --- |
-| [**Windows Security Audit Tool**](https://github.com/GoobinJung/Windows-Security-Audit) | A PowerShell tool that collects Windows system, process, network, and security event information into timestamped audit reports. |
-| [**Splunk Windows Threat Detection Lab**](https://github.com/GoobinJung/splunk-windows-threat-detection-lab) | An in-progress lab for Windows telemetry, SPL searches, and detection engineering. Currently in planning and setup. |
-| [**Interactive Drawing Recognition App**](https://github.com/GoobinJung/drawing-recognition-app) | A PyTorch CNN and Flask app that recognizes five categories of hand-drawn objects and displays the top three predictions with confidence scores. |
-| [**Point of Sale System**](https://github.com/GoobinJung/POS-System-project) | A Java Swing application with checkout, payment simulation, cashier sessions, sales reports, and local persistence. |
-| [**Vue Todo App**](https://github.com/GoobinJung/Vue-Todo-App) | A Vue 3 frontend for accounts, task lists, and task management through a separate backend API. |
+[![Windows Security Audit Tool. A PowerShell tool that collects Windows system, process, network, and security event information into timestamped audit reports.](./assets/project-cards/windows-security-audit.svg)](https://github.com/GoobinJung/Windows-Security-Audit)
 
+[![Splunk Windows Threat Detection Lab. An in-progress lab for Windows telemetry, SPL searches, and detection engineering. Currently in planning and setup.](./assets/project-cards/splunk-threat-detection.svg)](https://github.com/GoobinJung/splunk-windows-threat-detection-lab) [![Interactive Drawing Recognition App. A PyTorch CNN and Flask app that recognizes five categories of hand-drawn objects and displays the top three predictions with confidence scores.](./assets/project-cards/drawing-recognition.svg)](https://github.com/GoobinJung/drawing-recognition-app)
+
+[![Point of Sale System. A Java Swing application with checkout, payment simulation, cashier sessions, sales reports, and local persistence.](./assets/project-cards/point-of-sale.svg)](https://github.com/GoobinJung/POS-System-project) [![Vue Todo App. A Vue 3 frontend for accounts, task lists, and task management through a separate backend API.](./assets/project-cards/vue-todo.svg)](https://github.com/GoobinJung/Vue-Todo-App)
 
 ## Security exercises & simulations
 

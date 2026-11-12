@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="136" viewBox="0 0 364 136" role="img" aria-labelledby="title desc">
+  <title id="title">Interactive Drawing Recognition App</title>
+  <desc id="desc">Draw an object and see the three most likely predictions and confidence scores.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142031"/>
+      <stop offset="100%" stop-color="#0D1522"/>
+    </linearGradient>
+    
+  </defs>
+  <rect x="1" y="2" width="362" height="132" rx="13" fill="url(#surface)" stroke="#34455E"/>
+  
+  <rect x="19" y="13" width="29" height="29" rx="7" fill="#C1AEFF" opacity=".14"/>
+  <g transform="translate(24 17) scale(.83)" fill="none" stroke="#C1AEFF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m5 19 4-1 10-10-3-3L6 15l-1 4Zm8-11 3 3M5 7V5h3m8 14h3v-3"/>
+  </g>
+  <text x="59" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#C1AEFF">PYTORCH · FLASK</text>
+  <text x="20" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#F3F7FF">
+    <tspan x="20" dy="0">Interactive Drawing</tspan><tspan x="20" dy="21">Recognition App</tspan>
+  </text>
+  <text x="20" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#BDCBE0">
+    <tspan x="20" dy="0">Draw an object and see the three most</tspan><tspan x="20" dy="17">likely predictions and confidence scores.</tspan>
+  </text>
+  <circle cx="336" cy="27" r="12" fill="#C1AEFF" opacity=".14"/>
+  <path d="M332 31l8-8m-6 0h6v6" fill="none" stroke="#C1AEFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

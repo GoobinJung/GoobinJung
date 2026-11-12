@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="136" viewBox="0 0 364 136" role="img" aria-labelledby="title desc">
+  <title id="title">Point of Sale System</title>
+  <desc id="desc">Desktop checkout with payment simulation, cashier sessions, and sales reports.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142031"/>
+      <stop offset="100%" stop-color="#0D1522"/>
+    </linearGradient>
+    
+  </defs>
+  <rect x="1" y="2" width="362" height="132" rx="13" fill="url(#surface)" stroke="#34455E"/>
+  
+  <rect x="19" y="13" width="29" height="29" rx="7" fill="#FFC39B" opacity=".14"/>
+  <g transform="translate(24 17) scale(.83)" fill="none" stroke="#FFC39B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 5h2l2 10h9l3-7H7m2 10h.01M17 18h.01"/><circle cx="9" cy="19" r="1"/><circle cx="17" cy="19" r="1"/>
+  </g>
+  <text x="59" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#FFC39B">JAVA · SWING</text>
+  <text x="20" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#F3F7FF">
+    <tspan x="20" dy="0">Point of Sale System</tspan>
+  </text>
+  <text x="20" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#BDCBE0">
+    <tspan x="20" dy="0">Desktop checkout with payment simulation,</tspan><tspan x="20" dy="17">cashier sessions, and sales reports.</tspan>
+  </text>
+  <circle cx="336" cy="27" r="12" fill="#FFC39B" opacity=".14"/>
+  <path d="M332 31l8-8m-6 0h6v6" fill="none" stroke="#FFC39B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
