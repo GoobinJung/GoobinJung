@@ -30,7 +30,7 @@ B.S./M.S. student at Oklahoma Christian University
 
 [![Interactive Drawing Recognition App. A PyTorch CNN and Flask app that recognizes five categories of hand-drawn objects and displays the top three predictions with confidence scores.](./assets/project-cards/drawing-recognition.svg)](https://github.com/GoobinJung/drawing-recognition-app) &ensp;[![Point of Sale System. A Java Swing application with checkout, payment simulation, cashier sessions, sales reports, and local persistence.](./assets/project-cards/point-of-sale.svg)](https://github.com/GoobinJung/POS-System-project)
 
-[![Vue Todo App. A Vue 3 frontend for accounts, task lists, and task management through a separate backend API.](./assets/project-cards/vue-todo.svg)](https://github.com/GoobinJung/Vue-Todo-App)
+[![Vue Todo App. A Vue 3 frontend for accounts, task lists, and task management through a separate backend API.](./assets/project-cards/vue-todo.svg)](https://github.com/GoobinJung/Vue-Todo-App) &ensp;[![Secure RAG AI Chatbot. A local document Q&A app using Python, Flask, and Ollama, with role-based document access and Baseline versus Guarded prompt injection safeguards.](./assets/project-cards/secure-rag.svg)](https://github.com/GoobinJung/Secure-RAG-AI-Chatbot)
 
 ## Security exercises & simulations
 

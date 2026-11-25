@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="136" viewBox="0 0 364 136" role="img" aria-labelledby="title desc">
+  <title id="title">Secure RAG AI Chatbot</title>
+  <desc id="desc">Local document Q&amp;A with role-based access and prompt injection safeguards.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142031"/>
+      <stop offset="100%" stop-color="#0D1522"/>
+    </linearGradient>
+    
+  </defs>
+  <rect x="1" y="2" width="362" height="132" rx="13" fill="url(#surface)" stroke="#34455E"/>
+  
+  <rect x="19" y="13" width="29" height="29" rx="7" fill="#F2CD79" opacity=".14"/>
+  <g transform="translate(24 17) scale(.83)" fill="none" stroke="#F2CD79" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 3 4 6v6c0 5 8 9 8 9s8-4 8-9V6l-8-3Zm-4 9 3 3 5-6"/>
+  </g>
+  <text x="59" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#F2CD79">PYTHON · FLASK · OLLAMA</text>
+  <text x="20" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#F3F7FF">
+    <tspan x="20" dy="0">Secure RAG AI Chatbot</tspan>
+  </text>
+  <text x="20" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#BDCBE0">
+    <tspan x="20" dy="0">Local document Q&amp;A with role-based access</tspan><tspan x="20" dy="17">and prompt injection safeguards.</tspan>
+  </text>
+  <circle cx="336" cy="27" r="12" fill="#F2CD79" opacity=".14"/>
+  <path d="M332 31l8-8m-6 0h6v6" fill="none" stroke="#F2CD79" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
